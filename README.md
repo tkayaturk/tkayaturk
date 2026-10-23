@@ -1,16 +1,51 @@
-## Hi there 👋
+Hi, I’m Tolgahan Kayatürk
 
-<!--
-**tkayaturk/tkayaturk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Software Development student at WSB Merito University in Wrocław, Poland.
 
-Here are some ideas to get you started:
+I’m currently building a strong foundation in software development and working towards Cloud / DevOps and automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently Learning
+
+* Python
+* Linux & Command Line
+* Git & GitHub
+* Software Development Fundamentals
+
+Next Steps
+
+* Docker
+* CI/CD
+* Networking fundamentals
+* Cloud technologies
+* Building more real-world projects
+
+Projects
+
+🐍 Python Learning
+
+My Python learning journey, exercises, and small projects.
+
+View repository
+
+🐧 Linux Learning
+
+Linux command-line exercises and notes while learning Linux fundamentals.
+
+View repository
+
+⚙️ Software Build Automation
+
+University project focused on software build and automation concepts.
+
+View repository
+
+About Me
+
+* Based in Wrocław, Poland
+* Software Development student
+* Interested in Cloud, DevOps, automation, and backend technologies
+* Currently focused on improving my technical skills through consistent hands-on practice
+
+⸻
+
+GitHub: @tkayaturk
