@@ -1,51 +1,48 @@
-Hi, I’m Tolgahan Kayatürk
+# Hi, I'm Tolgahan Kayatürk
 
-I’m a Software Development student at WSB Merito University in Wrocław, Poland.
+I'm a **Software Development student at WSB Merito University in Wrocław, Poland**.
 
-I’m currently building a strong foundation in software development and working towards Cloud / DevOps and automation.
+I'm currently building a strong foundation in software development and working towards **Cloud / DevOps and automation**.
 
-Currently Learning
+## Currently Learning
 
-* Python
-* Linux & Command Line
-* Git & GitHub
-* Software Development Fundamentals
+- Python
+- Linux & Command Line
+- Git & GitHub
+- Software Development Fundamentals
 
-Next Steps
+## Next Steps
 
-* Docker
-* CI/CD
-* Networking fundamentals
-* Cloud technologies
-* Building more real-world projects
+- Docker
+- CI/CD
+- Networking fundamentals
+- Cloud technologies
+- Building more real-world projects
 
-Projects
+## Projects
 
-🐍 Python Learning
-
+### 🐍 Python Learning
 My Python learning journey, exercises, and small projects.
 
-View repository
+[View repository](https://github.com/tkayaturk/python-learning)
 
-🐧 Linux Learning
-
+### 🐧 Linux Learning
 Linux command-line exercises and notes while learning Linux fundamentals.
 
-View repository
+[View repository](https://github.com/tkayaturk/linux-learning)
 
-⚙️ Software Build Automation
-
+### ⚙️ Software Build Automation
 University project focused on software build and automation concepts.
 
-View repository
+[View repository](https://github.com/tkayaturk/Software-Build-Automation-project)
 
-About Me
+## About Me
 
-* Based in Wrocław, Poland
-* Software Development student
-* Interested in Cloud, DevOps, automation, and backend technologies
-* Currently focused on improving my technical skills through consistent hands-on practice
+- Based in Wrocław, Poland
+- Software Development student
+- Interested in Cloud, DevOps, automation, and backend technologies
+- Currently focused on improving my technical skills through consistent hands-on practice
 
-⸻
+---
 
-GitHub: @tkayaturk
+**GitHub:** [@tkayaturk](https://github.com/tkayaturk)
