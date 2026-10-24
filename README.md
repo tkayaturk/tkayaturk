@@ -36,7 +36,7 @@ University project focused on software build and automation concepts.
 
 [View repository](https://github.com/tkayaturk/Software-Build-Automation-project)
 
-## About Me
+## About Me/
 
 - Based in Wrocław, Poland
 - Software Development student
