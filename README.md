@@ -46,4 +46,5 @@ University project focused on software build and automation concepts.
 ---
 
 **GitHub:** [@tkayaturk](https://github.com/tkayaturk)  
-**LinkedIn:** [Tolgahan Kayatürk](https://pl.linkedin.com/in/tolgahankayaturk)
+**LinkedIn:** [Tolgahan Kayatürk](https://pl.linkedin.com/in/tolgahankayaturk)  
+**Instagram:** [@tkyaturk](https://www.instagram.com/tkyaturk/)
